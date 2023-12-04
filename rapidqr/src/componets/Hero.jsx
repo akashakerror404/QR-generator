@@ -29,7 +29,7 @@ function Hero() {
 
     return (
         <>
-        <div className='bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% ... md:h-screen h-screen'>
+        <div className='bg-gradient-to-r from-indigo-400 from-10% via-sky-500 via-30% to-emerald-300 to-90% ... md:h-screen h-screen'>
 
             <div className="flex flex-col mb-6 pt-6 ">
                 <div className="w-full flex justify-center items-center">
