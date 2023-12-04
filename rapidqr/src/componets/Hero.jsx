@@ -58,7 +58,7 @@ function Hero() {
 
                     {inputValue && !inputValue.includes('.com') && !inputValue.includes('.app') && (
                         <div className="mb-4 justify-start items-start">
-                            <p className='text-red-500'>{inputValue}</p>
+                            <p className='text-red-500'>https://site.com</p>
                         </div>
                     )}
 
